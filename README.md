@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 '<h1 align="center">Hi 👋, I'm Shiromini</h1>
 <h3 align="center">A full-stack developer from Cardiff, UK</h3>
 
-<p align="left"> As an Agile Delivery Manager with 5 years of experience in the software development team in the manufacturing industry, I have a keen eye for detail and a passion for  creating quality software. I am currently working towards attaining a Full Stack Software Engineering Degree with Code First Girls, due to graduate in December 2023. Although I am based in Cardiff, I am willing to relocate for the right role. 
+<p align="left"> As an Agile Delivery Manager with 5 years of experience in the software development team in the manufacturing industry, I have a keen eye for detail and a passion for  creating quality software. I am currently working towards attaining a Full Stack Software Engineering Degree with Code First Girls, due to graduate in December 2023. I am looking for a graduate/junior software engineering role to start in the new year. Although I am based in Cardiff, I am willing to relocate for the right role. 
  </p>
